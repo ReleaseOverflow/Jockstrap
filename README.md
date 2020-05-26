@@ -2,6 +2,6 @@
 <div style="text-align:center"><img src="" />A chat bot for Anarchy Online</div>
 
 <p align="center">
-    <img src="https://github.com/ReleaseOverflow/Jockstrap/blob/master/images/jock.png?raw=true" alt="Image" width="800" height="600" />
+    <img src="https://github.com/ReleaseOverflow/Jockstrap/blob/master/images/jockstrap_white_is_better__.png?raw=true" alt="Image" width="550" height="408" />
 </p>
 
